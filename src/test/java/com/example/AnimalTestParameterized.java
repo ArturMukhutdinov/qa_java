@@ -1,3 +1,5 @@
+package com.example;
+
 import com.example.Animal;
 import junit.framework.TestCase;
 import org.junit.Test;

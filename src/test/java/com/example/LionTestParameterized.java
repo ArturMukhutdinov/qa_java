@@ -1,3 +1,5 @@
+package com.example;
+
 import com.example.Feline;
 import com.example.Lion;
 import junit.framework.TestCase;
