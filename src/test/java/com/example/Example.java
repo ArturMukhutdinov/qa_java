@@ -1,8 +1,5 @@
 package com.example;
 
-import com.example.Cat;
-import com.example.Feline;
-import com.example.Lion;
 
 public class Example {
         public static void main(String[] args) throws Exception {

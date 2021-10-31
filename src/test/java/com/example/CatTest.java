@@ -1,7 +1,4 @@
 package com.example;
-
-import com.example.Cat;
-import com.example.Feline;
 import junit.framework.TestCase;
 import org.junit.Test;
 import org.junit.runner.RunWith;
